@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+
+  }
+th {
+    background-color: brown;
+    color: white;
+    border: 2px solid wheat ;
+    border-collapse: collapse;}
+    table{
+      text-align: right;
+    }
+    
